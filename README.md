@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an example of simple React app for Social Media.
 
 ## Available Scripts
 
